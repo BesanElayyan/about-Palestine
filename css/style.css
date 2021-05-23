@@ -1,0 +1,16 @@
+footer{
+    background-color: grey;
+    text-align: right;
+}
+ 
+main section{
+margin-top: 200px ;
+}
+
+section p {
+    padding-top: 10px ;
+}
+
+footer{
+    margin-top: 300px;
+}
